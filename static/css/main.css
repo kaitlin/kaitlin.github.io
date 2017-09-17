@@ -1,0 +1,33 @@
+body { margin: 0; padding: 0; font-size:.9em; max-width: 1020px; }
+#cover { font-size: 1.1em; margin:2em 2em 22em; padding: 0 2em; width: 630px; float:left;}
+#resume { width: 100%; font-family: 'Rosario', sans-serif; margin:0; padding: 0;}
+#resume #col1 { width: 30%; float:left; margin-top: 6.7em; }
+#resume #col2 { width: 63%; float: left; margin-left: 40px; }
+#resume h1 { width: 100%; float: left; font-size:2.7em; margin-top: 0px; }
+#resume h1 span { font-size: .5em; font-style:italic; font-weight: normal;display: block;}
+#resume h3 { margin: 5px; padding: 0px; font-style:italic; }
+#resume ul.info.small { width: 200px; margin-right: 4em; }
+#resume ul.info { float: left; margin:0 0 40px 0; padding: 0px; list-style-type:none;}
+#resume ul.info li { float: left; padding: 5px; list-style-type:none; }
+#resume ul.info li.last { clear:both;}
+#col2 div.objective { font-size:1.2em;  font-style: italic;}
+#col2 h4 {width: 100%; font-size: 1.1em;}
+#col2 h4 span { float:right;font-style:italic;font-weight:normal; }
+#col2 span.title { font-style:italic; display:block; margin-bottom: 15px; font-size: 1.1em;}
+#col2 ul.job {margin: 0 0 30px 0; padding:0 }
+#col2 ul li {margin-top: 5px; }
+#col2 ul.inner { padding-left: 45px; }
+h4 { margin: 0; padding: 0; }
+@media print { #criteria{page-break-before: always; } }
+#criteria h3 { font-style: normal; }
+#criteria h2 { margin-top: 0px;}
+#criteria { float:left; width: 600px; padding: 0 0 0 2em; margin-top: 0; line-height:1.4em;}
+body#index { background-color: #f2f2f2; font-family: 'Milonga', cursive; font-size: 1.3em; }
+body#index div#main { background-image: url(../img/girl_web.png); width: 798px; height: 812px; margin: 0; }
+#main h1 { font-weight: normal; font-size: 2em; margin: 0; padding: 1.5em 2em 1em 2em;}
+#main ul.things {list-style-type: none; margin:0; padding: 0px 0 15px 550px; }
+#main ul.things li { padding: 7px 0px; }
+#main a { text-decoration: none; color:black; }
+#main a:visited { color: black; }
+#main a:hover { text-decoration: underline;}
+h2.skills { margin-bottom: 5px; margin-top:5px; }
