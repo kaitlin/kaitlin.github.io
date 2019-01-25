@@ -1,4 +1,4 @@
-body { margin: 0; padding: 0; font-size:.9em; max-width: 1020px; }
+body { margin: 0; padding: 0; font-size:.8em; max-width: 1020px; }
 #cover { font-size: 1.1em; margin:2em 2em 22em; padding: 0 2em; width: 630px; float:left;}
 #resume { width: 100%; font-family: 'Rosario', sans-serif; margin:0; padding: 0;}
 #resume #col1 { width: 30%; float:left; margin-top: 6.7em; }
@@ -11,13 +11,14 @@ body { margin: 0; padding: 0; font-size:.9em; max-width: 1020px; }
 #resume ul.info li { float: left; padding: 5px; list-style-type:none; }
 #resume ul.info li.last { clear:both;}
 #col2 div.objective { font-size:1.2em;  font-style: italic;}
-#col2 h4 {width: 100%; font-size: 1.1em;}
+#col2 h4 {width: 100%; font-size: 1.3em;}
 #col2 h4 span { float:right;font-style:italic;font-weight:normal; }
 #col2 span.title { font-style:italic; display:block; margin-bottom: 15px; font-size: 1.1em;}
 #col2 ul.job {margin: 0 0 30px 0; padding:0 }
 #col2 ul li {margin-top: 5px; }
 #col2 ul.inner { padding-left: 45px; }
 h4 { margin: 0; padding: 0; }
+h5 { font-size: 1.2em; font-weight:normal; margin: 5px 0 10px 0;}
 @media print { #criteria{page-break-before: always; } }
 #criteria h3 { font-style: normal; }
 #criteria h2 { margin-top: 0px;}
@@ -30,4 +31,5 @@ body#index div#main { background-image: url(../img/girl_web.png); width: 798px; 
 #main a { text-decoration: none; color:black; }
 #main a:visited { color: black; }
 #main a:hover { text-decoration: underline;}
+h2 { font-size: 1.7em;}
 h2.skills { margin-bottom: 5px; margin-top:5px; }
